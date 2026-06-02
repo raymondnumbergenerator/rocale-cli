@@ -61,4 +61,4 @@ To build for release, run `lute scripts/build <version> $(git rev-parse HEAD)` t
 
 To run tests, see [Contributing](CONTRIBUTING.md#running-tests).
 
-no-op
+no-op 1
