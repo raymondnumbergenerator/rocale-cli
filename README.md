@@ -60,3 +60,5 @@ To build, run `lute scripts/build`. The build artifacts will be created in the `
 To build for release, run `lute scripts/build <version> $(git rev-parse HEAD)` to bake the version and commit hash of the build into the binary.
 
 To run tests, see [Contributing](CONTRIBUTING.md#running-tests).
+
+no-op
